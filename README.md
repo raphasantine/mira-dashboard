@@ -14,12 +14,12 @@ Transformar informações distribuídas em diferentes bases e relatórios em uma
 
 -- Funcionalidades
 
-_ Centralização de indicadores comerciais e de qualidade
-_ Acompanhamento de metas e projeções
-_ Simulação de cenários
-_ Análise histórica dos indicadores
-_ Identificação de oportunidades e pontos de atenção
-_ Gamificação por meio da personagem Mira
+• Centralização de indicadores comerciais e de qualidade
+• Acompanhamento de metas e projeções
+• Simulação de cenários
+• Análise histórica dos indicadores
+• Identificação de oportunidades e pontos de atenção
+• Gamificação por meio da personagem Mira
 
 -- Processo de desenvolvimento
 
@@ -34,12 +34,12 @@ A inteligência artificial foi utilizada como ferramenta de apoio à programaç�
 
 -- Conhecimentos aplicados
 
-_ Business Intelligence
-_ Análise e interpretação de indicadores
-_ Regras de negócio
-_ Estruturação de soluções
-_ Visualização de dados
-_ Gamificação e experiência do usuário
+• Business Intelligence
+• Análise e interpretação de indicadores
+• Regras de negócio
+• Estruturação de soluções
+• Visualização de dados
+• Gamificação e experiência do usuário
 
 -- Observações
 
