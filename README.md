@@ -59,6 +59,27 @@ A inteligência artificial foi utilizada como ferramenta de apoio à programaç�
 ### Evolução da personagem
 ![Personagem Mira](personagem.png)
 
+### Evolução dos indicadores
+![Evolução dos indicadores](evolucao.png)
+
+### Faixas de pontuação
+![Faixas de pontuação](faixas.png)
+
+### Reações da Mira
+![Reações da Mira](reacoes.png)
+
+### Previsão de vendas
+![Previsão de vendas](previsao.png)
+
+### Detalhamento da carteira
+![Detalhes da carteira](DetalhesCarteira.png)
+
+### Movimentação da carteira
+![Movimentação da carteira](MovimentoCarteira.png)
+
+### Análise de portabilidade
+![Portabilidade](portabilidade.png)
+
 -- Observações
 
 Este projeto é uma demonstração de portfólio. Todos os dados, nomes de clientes, CNPJs e resultados apresentados são fictícios.
