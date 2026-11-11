@@ -41,11 +41,11 @@ A inteligência artificial foi utilizada como ferramenta de apoio à programaç�
 5. Visualização de dados
 6. Gamificação e experiência do usuário
 
-##  Apresentação completa
+## Apresentação completa
 
-Quer conhecer melhor o desenvolvimento do MIRA? Preparei uma apresentação com o contexto do projeto, o processo de construção, as funcionalidades e as decisões tomadas ao longo do desenvolvimento.
+Conheça em detalhes o desenvolvimento do MIRA, desde a identificação do problema até a estruturação das funcionalidades e validação da solução
 
-**[Acessar apresentação completa do MIRA (PowerPoint)](./Mira_Portfolio_Dashboard.pptx)**
+**[Baixar apresentação completa do MIRA (PowerPoint)](./Mira_Portfolio_Dashboard.pptx)**
 
 ## Demonstração visual
 
@@ -87,7 +87,7 @@ Quer conhecer melhor o desenvolvimento do MIRA? Preparei uma apresentação com 
 
 ## Observações
 
-Este projeto é uma demonstração de portfólio. Todos os dados, nomes de clientes, CNPJs e resultados apresentados são fictícios.
+Este projeto é uma demonstração de portfólio; Todos os dados, nomes de clientes, CNPJs e resultados apresentados são fictícios.
 
 ⸻
 
