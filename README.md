@@ -41,6 +41,24 @@ A inteligência artificial foi utilizada como ferramenta de apoio à programaç�
 5. Visualização de dados
 6. Gamificação e experiência do usuário
 
+
+## Demonstração visual
+
+### Ficha principal
+![Ficha do MIRA](ficha.png)
+
+### Metas e resultados
+![Metas](metas.png)
+
+### Simulador
+![Simulador](simulador.png)
+
+### Indicadores de qualidade (QSC)
+![QSC](qsc.png)
+
+### Evolução da personagem
+![Personagem Mira](personagem.png)
+
 -- Observações
 
 Este projeto é uma demonstração de portfólio. Todos os dados, nomes de clientes, CNPJs e resultados apresentados são fictícios.
