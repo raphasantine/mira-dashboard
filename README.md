@@ -1,4 +1,4 @@
-MIRA - Dashboard Interativo
+MIRA -- Dashboard Interativo
 
 Uma solução demonstrativa para acompanhamento de indicadores, metas e resultados por meio de Business Intelligence e Gamificação.
 
